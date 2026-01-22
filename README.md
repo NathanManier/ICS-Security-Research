@@ -9,7 +9,7 @@ Research paper investigating hardware-based machine learning for detecting cyber
 - Isolation Forest + TensorFlow Lite on edge devices
 
 ## Paper
-Full paper: [Edge-Deployed-ML-ICS-Security.pdf](Edge-Deployed-ML-ICS-Security.pdf)
+Full paper: [Edge-Deployed-ML-ICS-Security.pdf](Edge-Deployed-ML-Model-in-ICS.pdf)
 
 Also published on Medium: https://medium.com/@nathanaeljmanier/edge-deployed-machine-learning-for-ics-cybersecurity-detecting-anomalies-on-resource-constrained-c623579011e5
 
